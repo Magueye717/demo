@@ -8,14 +8,11 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
+   "mgg": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
   "profile": {
     "name": "typicode"
   },
-  "users": [
-    { "id": 1, "prenom": "Magueye", "nom": "Gueye" },
-    { "id": 1, "prenom": "Youssouf", "nom": "Lam" },
-    { "id": 1, "prenom": "Mamadou", "nom": "Ndiaye" },
-    { "id": 1, "prenom": "Baye Cheikh", "nom": "Gueye" },
-    { "id": 1, "prenom": "Dame", "nom": "Mar" },
-  ]
 }
